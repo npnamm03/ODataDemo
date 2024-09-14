@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TestOData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658D3E1C-1772-4389-B5E0-AF3E98BB23BB}|TestOData\\TestOData.csproj|e:\\testodata\\testodata\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D3E1C-1772-4389-B5E0-AF3E98BB23BB}|TestOData\\TestOData.csproj|solutionrelative:testodata\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D3E1C-1772-4389-B5E0-AF3E98BB23BB}|TestOData\\TestOData.csproj|e:\\testodata\\testodata\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D3E1C-1772-4389-B5E0-AF3E98BB23BB}|TestOData\\TestOData.csproj|solutionrelative:testodata\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|e:\\testodata\\odatasample.data\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|solutionrelative:odatasample.data\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|e:\\testodata\\odatasample.data\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|solutionrelative:odatasample.data\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|e:\\testodata\\odatasample.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|solutionrelative:odatasample.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|e:\\testodata\\odatasample.data\\dto\\pressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|solutionrelative:odatasample.data\\dto\\pressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D3E1C-1772-4389-B5E0-AF3E98BB23BB}|TestOData\\TestOData.csproj|e:\\testodata\\testodata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D3E1C-1772-4389-B5E0-AF3E98BB23BB}|TestOData\\TestOData.csproj|solutionrelative:testodata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|e:\\testodata\\odatasample.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|solutionrelative:odatasample.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|e:\\testodata\\odatasample.data\\context\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|solutionrelative:odatasample.data\\context\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|e:\\testodata\\odatasample.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|solutionrelative:odatasample.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|e:\\testodata\\odatasample.data\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC79E0-3111-4635-95A8-FC99A5905A7B}|ODataSample.Data\\ODataSample.Data.csproj|solutionrelative:odatasample.data\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "E:\\TestOData\\ODataSample.Data\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "ODataSample.Data\\DTO\\BookDTO.cs",
+              "ToolTip": "E:\\TestOData\\ODataSample.Data\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "ODataSample.Data\\DTO\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:02:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "E:\\TestOData\\ODataSample.Data\\Context\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "ODataSample.Data\\Context\\BookStoreContext.cs",
+              "ToolTip": "E:\\TestOData\\ODataSample.Data\\Context\\BookStoreContext.cs",
+              "RelativeToolTip": "ODataSample.Data\\Context\\BookStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:10:00.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\TestOData\\ODataSample.Data\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ODataSample.Data\\Repository\\GenericRepository.cs",
+              "ToolTip": "E:\\TestOData\\ODataSample.Data\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "ODataSample.Data\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:01:16.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\TestOData\\ODataSample.Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ODataSample.Data\\Models\\Book.cs",
+              "ToolTip": "E:\\TestOData\\ODataSample.Data\\Models\\Book.cs",
+              "RelativeToolTip": "ODataSample.Data\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:39:06.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Press.cs",
+              "DocumentMoniker": "E:\\TestOData\\ODataSample.Data\\Models\\Press.cs",
+              "RelativeDocumentMoniker": "ODataSample.Data\\Models\\Press.cs",
+              "ToolTip": "E:\\TestOData\\ODataSample.Data\\Models\\Press.cs",
+              "RelativeToolTip": "ODataSample.Data\\Models\\Press.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:39:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TestOData\\TestOData\\Program.cs",
+              "RelativeDocumentMoniker": "TestOData\\Program.cs",
+              "ToolTip": "E:\\TestOData\\TestOData\\Program.cs",
+              "RelativeToolTip": "TestOData\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:25:58.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PressDTO.cs",
+              "DocumentMoniker": "E:\\TestOData\\ODataSample.Data\\DTO\\PressDTO.cs",
+              "RelativeDocumentMoniker": "ODataSample.Data\\DTO\\PressDTO.cs",
+              "ToolTip": "E:\\TestOData\\ODataSample.Data\\DTO\\PressDTO.cs",
+              "RelativeToolTip": "ODataSample.Data\\DTO\\PressDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:18:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PressesController.cs",
+              "DocumentMoniker": "E:\\TestOData\\TestOData\\Controllers\\PressesController.cs",
+              "RelativeDocumentMoniker": "TestOData\\Controllers\\PressesController.cs",
+              "ToolTip": "E:\\TestOData\\TestOData\\Controllers\\PressesController.cs",
+              "RelativeToolTip": "TestOData\\Controllers\\PressesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwD4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:15:31.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\TestOData\\TestOData\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "TestOData\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\TestOData\\TestOData\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "TestOData\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwEcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:15:27.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\TestOData\\ODataSample.Data\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ODataSample.Data\\Repository\\IGenericRepository.cs",
+              "ToolTip": "E:\\TestOData\\ODataSample.Data\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "ODataSample.Data\\Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:01:17.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\TestOData\\ODataSample.Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ODataSample.Data\\Models\\Category.cs",
+              "ToolTip": "E:\\TestOData\\ODataSample.Data\\Models\\Category.cs",
+              "RelativeToolTip": "ODataSample.Data\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:08:38.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

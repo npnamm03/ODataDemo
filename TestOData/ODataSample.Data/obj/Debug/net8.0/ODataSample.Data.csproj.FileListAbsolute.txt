@@ -1,0 +1,12 @@
+E:\TestOData\ODataSample.Data\bin\Debug\net8.0\ODataSample.Data.deps.json
+E:\TestOData\ODataSample.Data\bin\Debug\net8.0\ODataSample.Data.dll
+E:\TestOData\ODataSample.Data\bin\Debug\net8.0\ODataSample.Data.pdb
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\ODataSample.Data.csproj.AssemblyReference.cache
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\ODataSample.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\ODataSample.Data.AssemblyInfoInputs.cache
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\ODataSample.Data.AssemblyInfo.cs
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\ODataSample.Data.csproj.CoreCompileInputs.cache
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\ODataSample.Data.dll
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\refint\ODataSample.Data.dll
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\ODataSample.Data.pdb
+E:\TestOData\ODataSample.Data\obj\Debug\net8.0\ref\ODataSample.Data.dll
