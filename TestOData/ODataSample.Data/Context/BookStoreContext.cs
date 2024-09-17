@@ -14,6 +14,10 @@ namespace ODataSample.Data.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Book>().OwnsOne(c => c.Location);
+            modelBuilder.Entity<Book>()
+                        .HasOne(b => b.Press)
+                        .WithMany()
+                        .HasForeignKey(b => b.PressId);
         }
     }
 }

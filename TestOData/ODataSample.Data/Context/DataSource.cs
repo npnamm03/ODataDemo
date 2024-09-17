@@ -30,7 +30,7 @@ namespace ODataSample.Data.Context
                 Location = new Address { City = "HCM City", Street = "D2, Thu Duc District" },
                 Press = new Press
                 {
-                    Id = 1,
+                    PressId = 1,
                     Name = "Addison-Wesley",
                     Email = "nam@gmail.com",
                     Category = Category.Book
@@ -47,7 +47,7 @@ namespace ODataSample.Data.Context
                 Location = new Address { City = "HCM City", Street = "D2, Thu Duc District" },
                 Press = new Press
                 {
-                    Id = 2,
+                    PressId = 2,
                     Name = "Addison-Wesley",
                     Email = "hung@gmail.com",
                     Category = Category.Book

@@ -11,7 +11,7 @@ namespace ODataSample.Data.Models
 {
     public class Press
     {
-        public int Id { get; set; }
+        public int PressId { get; set; }
         public string? Name { get; set; }
         public string? Email { get; set; }
         public Category Category { get; set; }

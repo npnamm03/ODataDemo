@@ -50,6 +50,12 @@ namespace TestOData.Controllers
         }
 
         [EnableQuery]
+        public IActionResult Get(int key, string version)
+        {
+            return Ok(_context.Presses.Find(key));
+        }
+
+        [EnableQuery]
         public IActionResult Post([FromBody] PressDTO press)
         {
             if (press == null)
@@ -59,7 +65,7 @@ namespace TestOData.Controllers
 
             Press p = new Press()
             {
-                Id = press.Id,
+                PressId = press.Id,
                 Email = press.Email,
                 Category = press.Category,
                 Name = press.Name,

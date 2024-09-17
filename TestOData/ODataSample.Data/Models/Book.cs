@@ -19,6 +19,7 @@ namespace ODataSample.Data.Models
         public string? Author { get; set; }
         public decimal? Price { get; set; }
         public Address? Location { get; set; }
+        public int PressId { get; set; }
         public Press? Press { get; set; }
     }
 }
